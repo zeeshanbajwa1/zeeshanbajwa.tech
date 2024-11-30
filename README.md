@@ -1,2 +1,2 @@
-# zeeshanbajwa.tech
-Portfolio website for Resume
+# zeeshan.github.io
+Portfolio
